@@ -2,7 +2,7 @@
 
 Senhas para teste:
 
-vitor@gmail.com
+vitor@gmail.com </br>
 pedro@gmail.com
 
 Senha: 123456
